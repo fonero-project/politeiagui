@@ -131,7 +131,7 @@ describe("test api actions (actions/api.js)", () => {
     // define specific mocks for external apis to return responses as an array
     const { address } = FAKE_PAYWALL;
     setGetSuccessResponse(
-      `https://testnet.fnodata.org/api/address/${address}/raw`,
+      `https://testnet.fonero.org/api/address/${address}/raw`,
       {},
       []
     );

@@ -7,8 +7,8 @@ import {
 describe("test external api lib (lib/api.js)", () => {
   const FAKE_TESTNET_ADDRESS = "T_fake_address";
   const FAKE_MAINNET_ADDRESS = "M_fake_address";
-  const fnodataTestnetUrl = "https://testnet.fnodata.org/api";
-  const fnodataExplorerUrl = "https://explorer.fnodata.org/api";
+  const fnodataTestnetUrl = "https://testnet.fonero.org/api";
+  const fnodataExplorerUrl = "https://explorer.fonero.org/api";
   const faucetUrl = "https://faucet.fonero.org/requestfaucet";
 
   test("get height from fnod data", async () => {

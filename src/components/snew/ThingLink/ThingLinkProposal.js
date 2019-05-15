@@ -388,7 +388,7 @@ class ThingLinkComp extends React.Component {
                     />{" "}
                     and use the{" "}
                     <a
-                      href="https://github.com/fonero/politeia/tree/master/politeiad/cmd/politeia_verify"
+                      href="https://github.com/fonero-project/politeia/tree/master/politeiad/cmd/politeia_verify"
                       target="_blank"
                       rel="noopener noreferrer"
                     >

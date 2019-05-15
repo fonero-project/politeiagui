@@ -3,7 +3,7 @@ import paymentFaucetConnector from "../connectors/paymentFaucet";
 import ButtonWithLoadingIcon from "./snew/ButtonWithLoadingIcon";
 import Message from "./Message";
 
-const FAUCET_BASE_URL = "https://testnet.fnodata.org/explorer/tx";
+const FAUCET_BASE_URL = "https://testnet.fonero.org/explorer/tx";
 const getFaucetUrl = txid => `${FAUCET_BASE_URL}/${txid}`;
 
 const PaymentFaucet = ({

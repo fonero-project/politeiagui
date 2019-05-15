@@ -11,7 +11,7 @@ Politeiagui uses node.js and the yarn package manager.
 
 - [node](https://nodejs.org/en/download/)
 - [yarn](https://yarnpkg.com/en/)
-- [politeiawww](https://github.com/fonero/politeia)
+- [politeiawww](https://github.com/fonero-project/politeia)
 
     **Note:**  Politeiagui can be run as a standalone application that uses mock APIs to simulate communicaiton with the Politeia backend (useful if you're only doing UI changes). In this case, `politeiawww` isn't needed. However, be aware that the Mock APIs are not always up-to-date with the latest changes. 
 
@@ -22,7 +22,7 @@ Politeiagui uses node.js and the yarn package manager.
 
 1. Clone this repository
 
-    `https://github.com/fonero/politeiagui.git`
+    `https://github.com/fonero-project/politeiagui.git`
     
 
 1. Build and run locally.

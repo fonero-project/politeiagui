@@ -28,7 +28,7 @@ const resourcesText = `
  * [Whitepaper/Technical Brief (pdf)](https://fonero.org/dtb001.pdf)
  * [Documentation](https://docs.fonero.org/)
  * [Getting Started](https://fonero.org/#guide)
- * [Source Code on Github](https://github.com/fonero/)
+ * [Source Code on Github](https://github.com/fonero-project/)
  * [Network Status](https://stats.fonero.org/) & [Block Explorer](https://mainnet.fonero.org/)
  * [Voting Status](https://voting.fonero.org/)
  * [Downloads Overview](https://fonero.org/downloads/)

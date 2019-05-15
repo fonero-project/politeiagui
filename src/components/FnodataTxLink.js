@@ -6,7 +6,7 @@ const FnodataTxLink = ({ isTestnet, txId, isTxId }) => {
     <span>{txId}</span>
   ) : (
     <a
-      href={`https://${network}.fnodata.org/tx/${txId}`}
+      href={`https://${network}.fonero.org/tx/${txId}`}
       target="_blank"
       rel="noopener noreferrer"
     >

@@ -3,7 +3,7 @@ import { TESTNET, EXPLORER } from "../constants";
 const getSubdomainForFnodata = isTestnet => (isTestnet ? TESTNET : EXPLORER);
 
 const fnodataURL = isTestnet =>
-  `https://${getSubdomainForFnodata(isTestnet)}.fnodata.org/api`;
+  `https://${getSubdomainForFnodata(isTestnet)}.fonero.org/api`;
 
 export const fnoddataBlockHeightURL = isTestnet =>
   `${fnodataURL(isTestnet)}/block/best/height`;

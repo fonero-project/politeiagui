@@ -8,7 +8,7 @@ introduce yourself. We always like to know who is interested in the project and 
 
 **Did you find a bug?**
 
-- Ensure the bug was not already reported by searching our GitHub under [issues](https://github.com/fonero/politeiagui/issues).
+- Ensure the bug was not already reported by searching our GitHub under [issues](https://github.com/fonero-project/politeiagui/issues).
 
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include:
     - a title and clear description

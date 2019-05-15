@@ -39,8 +39,8 @@ class LogoutPage extends Component {
                   <span className="fa fa-github fa-2x" aria-hidden="true" />
                 </div>
                 <div>
-                  <a href="https://github.com/fonero/politeia"> politeia</a> and{" "}
-                  <a href="https://github.com/fonero/politeiagui">
+                  <a href="https://github.com/fonero-project/politeia"> politeia</a> and{" "}
+                  <a href="https://github.com/fonero-project/politeiagui">
                     politeiagui
                   </a>
                 </div>

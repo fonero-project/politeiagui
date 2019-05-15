@@ -28,7 +28,7 @@ describe("test actions/external_api", () => {
   const FAKE_TX_NOT_BEFORE = "1527263799";
 
   const mockPiVerifyPaymentPath = "/api/v1/user/verifypayment";
-  const mockFnoDataPath = `https://testnet.fnodata.org/api/address/${FAKE_ADDRESS}/raw`;
+  const mockFnoDataPath = `https://testnet.fonero.org/api/address/${FAKE_ADDRESS}/raw`;
   const mockFnoDataResponseLackingConfirmation = [
     {
       size: 251,

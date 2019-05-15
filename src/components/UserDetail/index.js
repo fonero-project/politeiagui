@@ -82,8 +82,8 @@ class UserDetail extends Component {
   render() {
     const { isTestnet } = this.props;
     const fnodataTxUrl = isTestnet
-      ? "https://testnet.fnodata.org/tx/"
-      : "https://explorer.fnodata.org/tx/";
+      ? "https://testnet.fonero.org/tx/"
+      : "https://explorer.fonero.org/tx/";
 
     return (
       <UserDetailPage
